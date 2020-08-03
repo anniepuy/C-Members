@@ -1,0 +1,13 @@
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.csprojAssemblyReference.cache
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.AssemblyInfoInputs.cache
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.AssemblyInfo.cs
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.exe
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.deps.json
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.runtimeconfig.json
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.runtimeconfig.dev.json
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.dll
+C:\Users\William\Documents\source\memberProgram\bin\Debug\netcoreapp3.1\memberProgram.pdb
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.dll
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.pdb
+C:\Users\William\Documents\source\memberProgram\obj\Debug\netcoreapp3.1\memberProgram.genruntimeconfig.cache
